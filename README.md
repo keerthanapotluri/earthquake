@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project focuses on **analyzing global earthquake data** using **Azure Databricks** for data processing and **Power BI** for visualization. The goal is to gain insights into earthquake trends, magnitudes, affected locations, and fatalities.
 
+## 🚀 Data Source
+https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search
+
 ## 🚀 Tech Stack
 - **Azure Databricks** (Data Processing & Transformation)
 - **PySpark** (Data Cleaning & ETL)
